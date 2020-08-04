@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73bcbd6f-d6a9-4bdb-ad58-913d30f5338e" name="Default Changelist" comment="" />
+    <list default="true" id="73bcbd6f-d6a9-4bdb-ad58-913d30f5338e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AnalyzerController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AnalyzerController.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +46,9 @@
       </path>
     </expand>
     <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
     <include_path>
@@ -106,6 +113,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1fN2HvXSRwEkTdREf4X9mMUttFc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -114,6 +122,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -155,17 +164,17 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="root:url@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@2b6dc36d" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@8c408d3" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="root:url@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@206df394" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@7a72104a" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="root:url@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@78e71bac" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@7c0bb4a2" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
             </expand>
             <select />
@@ -187,7 +196,9 @@
       <workItem from="1596044147632" duration="1222000" />
       <workItem from="1596045384573" duration="8978000" />
       <workItem from="1596104780845" duration="29041000" />
-      <workItem from="1596183429594" duration="10125000" />
+      <workItem from="1596183429594" duration="13692000" />
+      <workItem from="1596290757313" duration="487000" />
+      <workItem from="1596551190037" duration="1505000" />
     </task>
     <servers />
   </component>
@@ -211,22 +222,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1596124623390" />
-    <state width="1024" height="241" key="GridCell.Tab.0.bottom" timestamp="1596125024670">
+    <state width="501" height="241" key="GridCell.Tab.0.bottom" timestamp="1596551199107">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="241" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596125024670" />
-    <state width="1024" height="241" key="GridCell.Tab.0.center" timestamp="1596125024670">
+    <state width="501" height="241" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596551199107" />
+    <state width="501" height="241" key="GridCell.Tab.0.center" timestamp="1596551199107">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="241" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596125024670" />
-    <state width="1024" height="241" key="GridCell.Tab.0.left" timestamp="1596125024669">
+    <state width="501" height="241" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596551199107" />
+    <state width="501" height="241" key="GridCell.Tab.0.left" timestamp="1596551199107">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="241" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596125024669" />
-    <state width="1024" height="241" key="GridCell.Tab.0.right" timestamp="1596125024670">
+    <state width="501" height="241" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596551199107" />
+    <state width="501" height="241" key="GridCell.Tab.0.right" timestamp="1596551199107">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="241" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596125024670" />
+    <state width="501" height="241" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596551199107" />
     <state x="507" y="228" key="NewPhpClassDialog" timestamp="1596049209346">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

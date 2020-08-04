@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\UrlClickCount;
 use App\UserClickCountBrowser;
 use App\UserClickCountMobile;
+use DateTime;
 use Illuminate\Http\Request;
 
 class AnalyzerController extends Controller
@@ -21,6 +22,13 @@ class AnalyzerController extends Controller
             'report_type' => 'required'
         ]);
         $selector = $this->_reportSelector($request);
+//        if ($selector == 'today_count'){
+//            $today_finish = new DateTime();
+//            $today_start = new DateTime();
+//            $today_start->setTime(00, 00, 00);
+//
+//
+//        }
         if (isset($request->is_mobile)){
             $answer = UrlClickCount::where('is_mobile',$request->is_mobile)
                 ->where('url_short',$request->url_short)
